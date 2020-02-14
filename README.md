@@ -1,1 +1,1 @@
-## My awesome [CV](https://kanstantsin-chenrik.github.io/test/cv)
+## My awesome [CV](https://kanstantsin-chernik.github.io/test/cv)
